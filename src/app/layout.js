@@ -1,5 +1,6 @@
 import localFont from "next/font/local";
 import "./globals.css";
+{/* <link href="https://fonts.cdnfonts.com/css/cabinet-grotesk" rel="stylesheet"></link> */}
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -20,6 +21,15 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+        <head>
+          {/* Add Google Fonts link or custom font files */}
+          <link
+            href="https://fonts.googleapis.com/css2?family=Cabinet+Grotesk&display=swap"
+            rel="stylesheet"
+          />
+          {/* Alternatively, if using custom font files in /public */}
+          {/* <link rel="stylesheet" href="/fonts/Cabinet_Grotesk.css" /> */}
+        </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
