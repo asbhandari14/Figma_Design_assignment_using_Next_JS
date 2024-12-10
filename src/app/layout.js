@@ -22,13 +22,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
         <head>
-          {/* Add Google Fonts link or custom font files */}
-          <link
-            href="https://fonts.googleapis.com/css2?family=Cabinet+Grotesk&display=swap"
-            rel="stylesheet"
-          />
-          {/* Alternatively, if using custom font files in /public */}
-          {/* <link rel="stylesheet" href="/fonts/Cabinet_Grotesk.css" /> */}
+          <link href="https://fonts.googleapis.com/css2?family=Cabinet+Grotesk&display=swap" rel="stylesheet" />
         </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}

@@ -112,7 +112,7 @@ export function ProductDisplay() {
         <div className="pr-[51px]">
           <h2 className="text-[20px]">Description produit</h2>
           <p className="text-gray-600 mt-[10px] text-[14px]">
-            Festi vous propose à la location un/une "Jewel – grand couteau/10pc" pour votre évenement et ce dès 0,35 € / pièce (HTVA). Que ce soit pour votre mariage, une fête d'anniversaire ou du personnel, ce produit a fait l'objet d'une sélection rigoureuse par notre équipe. Il est en location chez nous sous la référence "VAJGC". Nous sommes à votre disposition pour que les événements de nos clients, même en last-minute, soient toujours une réussite. Vous pourrez trouver tout une série d'autre produit à louer de ce type dans la catégorie "Art de la Table".
+            Festi vous propose à la location un/une &quot;Jewel – grand couteau/10pc&quot; pour votre évenement et ce dès 0,35 € / pièce (HTVA). Que ce soit pour votre mariage, une fête d&apos;anniversaire ou du personnel, ce produit a fait l&lsquo;objet d&apos;une sélection rigoureuse par notre équipe. Il est en location chez nous sous la référence &quot;VAJGC&quot;. Nous sommes à votre disposition pour que les événements de nos clients, même en last-minute, soient toujours une réussite. Vous pourrez trouver tout une série d&quot;autre produit à louer de ce type dans la catégorie &quot;Art de la Table&quot;.
           </p>
         </div>
         <div className="flex flex-col max-lg:mt-8">

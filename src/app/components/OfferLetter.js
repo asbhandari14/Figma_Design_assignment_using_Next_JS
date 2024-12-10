@@ -56,9 +56,9 @@ export function OfferLetter() {
       <div className="s'inscrire absolute top-3/4 left-[2%] w-[95%] mx-auto h-[300px] max-md:h-auto flex justify-between items-center gap-6 rounded-[20px]">
         <Image src={offer_letter_main_img} alt="Offer Letter" className="max-lg:hidden" />
         <div className="w-full h-full bg-[#FFF3F9] flex flex-col justify-start items-start gap-4 p-7 rounded-[20px]">
-          <h1 className="font-[500] text-[32px] max-md:text-[26px]">S'inscrire & économiser <span className="text-[#5CD2DD]">10%</span></h1>
+          <h1 className="font-[500] text-[32px] max-md:text-[26px]">S&apos;inscrire & économiser <span className="text-[#5CD2DD]">10%</span></h1>
           <p className="font-[Geist] font-[500] text-[14px] leading-[22px] text-[#BDA2B0]">
-            Office ipsum you must be muted. Synergize helicopter prioritize anyway job due harvest most opportunity didn't. Yet busy any meeting shark light marginalised 4-blocker message. Productize corporate nail caught synergy highlights lunch. Company another pushback items dear or any.
+            Office ipsum you must be muted. Synergize helicopter prioritize anyway job due harvest most opportunity didn&apos;t. Yet busy any meeting shark light marginalised 4-blocker message. Productize corporate nail caught synergy highlights lunch. Company another pushback items dear or any.
           </p>
           <div className="w-full flex max-sm:flex-col justify-between items-center gap-3">
             <input
